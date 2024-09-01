@@ -15,7 +15,7 @@ Simple Ui Using Compose
 
 ## Setup
 
-1. Clone the repository:
+1. Clone the repository::
 
     ```bash
     git clone https://github.com/Satyamkrjha85/expense-tracker.git
